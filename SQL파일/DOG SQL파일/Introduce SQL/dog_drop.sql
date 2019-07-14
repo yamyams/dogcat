@@ -1,0 +1,5 @@
+DROP TABLE DOG 
+	CASCADE CONSTRAINTS;
+purge RECYCLEBIN;
+    
+select * from dog;

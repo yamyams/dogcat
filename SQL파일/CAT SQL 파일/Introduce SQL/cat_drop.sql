@@ -1,0 +1,6 @@
+DROP TABLE CAT 
+	CASCADE CONSTRAINTS;
+
+purge RECYCLEBIN;
+
+select * from CAT;
